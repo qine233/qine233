@@ -16,4 +16,11 @@
 [![Ubuntu](https://img.shields.io/badge/Env-Ubuntu-00E400?style=flat-square&logo=Ubuntu&logoColor=FFFFFF&labelColor=00E400)](https://www.ubuntu.org/)
 [![Windows](https://img.shields.io/badge/Env-Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows10)
 [![Android](https://img.shields.io/badge/Env-Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-11/)
+#
 
+### 📱HISTORY Devices (部分)
+[![](https://img.shields.io/badge/Device-MI%208%20LITE-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://mi.com/)
+[![](https://img.shields.io/badge/Device-MI%2011%20LITE-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://mi.com/)
+[![](https://img.shields.io/badge/Device-REDMI%201S-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://mi.com/)
+[![](https://img.shields.io/badge/Device-iPhone%207-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/iphone-11/specs/)
+[![Legion Y7000](https://img.shields.io/badge/Device-Legion%20R7000%202021-00BBFF?style=flat-square&logo=lenovo&logoColor=FFFFFF&labelColor=00BBFF)](https://activity.lenovo.com.cn/xiaofei/zjz/hdy.html)
