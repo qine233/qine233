@@ -5,10 +5,10 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qine233&layout=compact&exclude_repo=sumy7.github.io&theme=vue&show_icons=true" />
 
 
-#
-#
-#
-#
+### 🌱 I’m currently learning HTML-css-JavaScript-vue
+### 💬 Ask me about 心若向阳，无谓伤悲.
+### 😄 Pronouns:无
+### 👀 Website:[青益云记-一个简简单单的小站](https://www.idkzr.com/)
 #
 - 🌱 I’m currently learning HTML-css-JavaScript-vue
 - 💬 Ask me about 心若向阳，无谓伤悲.
