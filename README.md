@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=qine233&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
-####
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qine233&layout=compact&exclude_repo=sumy7.github.io&theme=vue&show_icons=true" />
-
 
 #### 🌱 I’m currently learning vue + JavaScript
 #### 💬 Ask me about 心若向阳，无谓伤悲.
