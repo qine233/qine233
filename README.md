@@ -13,7 +13,7 @@
 [![Windows](https://img.shields.io/badge/Env-Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows10)
 [![Android](https://img.shields.io/badge/Env-Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-11/)
 #
-### 🛳 &nbsp;当前已访问人数
+### 🛳 &nbsp;当前已被访问次数
 <img src="https://profile-counter.glitch.me/qine233/count.svg" />
 
 
