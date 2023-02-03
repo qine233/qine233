@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-#### 🌱 I’m currently learning vue + JavaScript
+#### 🌱 我什么也不会，不用看了
 #### 👀 Website:[青益云记-一个简简单单的小站](https://www.idkzr.com/)
 
 
