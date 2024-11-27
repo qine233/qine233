@@ -6,6 +6,8 @@
 
 
 # 
+   <img align="right" src="https://github-readme-stats.vercel.app/api?username=qine233&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true">
+#
 ### 💻 Environment
 [![Ubuntu](https://img.shields.io/badge/Env-Ubuntu-FFD700?style=flat-square&logo=Ubuntu&logoColor=FFFFFF&labelColor=FFD700)](https://www.ubuntu.org/)
 [![Windows](https://img.shields.io/badge/Env-Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows10)
