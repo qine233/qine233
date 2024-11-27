@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-
 #### 🌱 我什么也不会，不用看了
 #### 👀 Website:[青益云记-一个简简单单的小站](https://www.idkzr.com/)
-
 
 # 
 <div align=center>
@@ -12,4 +10,9 @@
 
 
 ###  🛳 &nbsp;当前已被访问次数
-<img src="https://profile-counter.glitch.me/qine233/count.svg" />
+<div><img src="https://profile-counter.glitch.me/qine233/count.svg" /></div>
+
+### 💻 Environment
+[![Ubuntu](https://img.shields.io/badge/Env-Ubuntu-FFD700?style=flat-square&logo=Ubuntu&logoColor=FFFFFF&labelColor=FFD700)](https://www.ubuntu.org/)
+[![Windows](https://img.shields.io/badge/Env-Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows10)
+
